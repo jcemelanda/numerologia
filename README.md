@@ -1,4 +1,5 @@
-= Numerologia =
+Numerologia
+===========
 Numerologia é uma ciência mística que estuda a influência dos números na vida das pessoas.
 
 Este script retorna o numero da data de nascimento da pessoa ou do seu nome
